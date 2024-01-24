@@ -1,12 +1,11 @@
-<img align="center" width=1000 height=400 src="https://33.media.tumblr.com/5ab91dfb029f1745f2e318f0c554fadd/tumblr_nx7xf40vg31qaityko1_1280.gif" />
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">A creative, passionate, detail-oriented software engineer from North Carolina</h3>
 
 - 🔭 I’m currently working on [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration)
 
-- 🌱 I’m currently learning **Operating Systems Design**
+- 🌱 I’m currently learning **iOS Development**
 
-- 💬 Ask me about **Numerical Analysis, Game Dev, Low-Level Programming**
+- 💬 Ask me about **Game Development, Graphics Programming, Mathematical Programming**
 
 - 📫 How to reach me **maricha6@ncsu.edu**
 
