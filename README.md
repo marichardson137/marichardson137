@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A creative, passionate, team-oriented software engineer from North Carolina </h3>
+<h1 align="center">Michael Richardson</h1>
+<h3 align="center">A passionate, team-oriented software engineer from North Carolina </h3>
 
 - 🔭 I’m currently working on [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration)
 
