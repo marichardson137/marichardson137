@@ -1,13 +1,13 @@
 
-- 🔭 I’m currently working on [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration)
+🔭 I’m currently working on [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration)
 
-- 🌱 I’m currently learning **iOS Development**
+🌱 I’m currently learning **iOS Development**
 
-- 💬 Ask me about **Game Development, Graphics Programming, Mathematical Programming**
+💬 Ask me about **Game Development, Graphics Programming, Mathematical Programming**
 
-- 📫 How to reach me **maricha6@ncsu.edu**
+📫 How to reach me **maricha6@ncsu.edu**
 
-- ⚡ Fun fact **I've read "Design Patterns" by The Gang of Four**
+⚡ Fun fact **I've read "Design Patterns" by The Gang of Four**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
