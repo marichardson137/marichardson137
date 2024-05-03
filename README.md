@@ -1,7 +1,7 @@
 
 🔭 I’m currently working on [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration) and [Web Game w/ ThreeJS](https://github.com/marichardson137/ThreeJS)
 
-🌱 I’m currently learning **iOS Development**
+🌱 I’m currently learning **Unity Game Engine**
 
 💬 Ask me about **Game Development, Graphics Programming, Mathematical Programming**
 
