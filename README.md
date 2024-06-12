@@ -1,9 +1,9 @@
 
-🔭 I’m currently working on [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration) and [Web Game w/ ThreeJS](https://github.com/marichardson137/ThreeJS)
+🔭 I’m currently working on [Prism](https://github.com/marichardson137/Prism), a cross-platform 3D Modeling Application
 
-🌱 I’m currently learning **raylib!**
+🪐 Check out my recent project, [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration)
 
-💬 Ask me about **Game Development, Graphics Programming, Mathematical Programming**
+🌱 Ask me about **Graphics Programming, Mathematical Programming, Computational Geometry**
 
 📫 How to reach me **maricha6@ncsu.edu**
 
