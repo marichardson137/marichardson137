@@ -3,7 +3,7 @@
 
 🪐 Check out my recent project, [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration)
 
-🌱 Ask me about **Graphics Programming, Mathematical Programming, Computational Geometry**
+🌱 Ask me about **Graphics Programming, Scientific Computing, and Full-Stack Development**
 
 📫 How to reach me **maricha6@ncsu.edu**
 
