@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on [Prism](https://github.com/marichardson137/Prism), a cross-platform 3D Modeling Application
+🔭 I’m currently working on a physics-based [Flight Simulator](https://github.com/marichardson137/FlightSimulator) in pure C!
 
 🪐 Check out my recent project, [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration)
 
