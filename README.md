@@ -1,7 +1,7 @@
 
 🔭 I’m currently working on a physics-based [Flight Simulator](https://github.com/marichardson137/FlightSimulator) in pure C!
 
-🪐 Check out my recent project, [Verlet Integration in C](https://github.com/marichardson137/VerletIntegration)
+🪐 Check out my recent project, [Verlet Integration](https://github.com/marichardson137/VerletIntegration)
 
 🌱 Ask me about **Graphics Programming, Scientific Computing, and Full-Stack Development**
 
