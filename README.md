@@ -1,5 +1,5 @@
 
-🔭 I’m currently working on a cross-platform [Parametric Modeling](https://github.com/marichardson137/ParametricModeler) application (like Fusion360)!
+🔭 I’m currently working on a cross-platform [3D modeling application](https://github.com/marichardson137/Prism) for hobbyists.
 
 🪐 Check out my recent project, a [Flight Simulator](https://github.com/marichardson137/FlightSimulator) in pure C!
 
