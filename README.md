@@ -1,7 +1,9 @@
 
-🔭 I’m currently working on a cross-platform [3D modeling application](https://github.com/marichardson137/Prism) for hobbyists.
+🔭 I’m currently working on a real-time, web-based, multiplayer game called _Dread_.
 
-🪐 Check out my recent project, a [Flight Simulator](https://github.com/marichardson137/FlightSimulator) in pure C!
+🪐 Check out my recent projects:
+- A physics-based [flight simulator](https://github.com/marichardson137/FlightSimulator) in pure C
+- A cross-platform [3D modeling application](https://github.com/marichardson137/Prism) in C++
 
 🌱 Ask me about **Graphics Programming, Scientific Computing, and Full-Stack Development**
 
